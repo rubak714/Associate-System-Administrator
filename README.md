@@ -17,7 +17,7 @@ These server operating systems contain applications, file and printer shares, da
 
   As a sysadmin, the following areas are work of daily activities or Management duties for a Sysadmin:
 
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/5000a214-a11a-48fd-9451-0abd38c131cd" alt="Description of image" width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/5000a214-a11a-48fd-9451-0abd38c131cd" alt="Description of image" width="1000" >
 
 ### Active directory:
 
@@ -25,11 +25,11 @@ These server operating systems contain applications, file and printer shares, da
 - The schema is a set of rules that define the classes of objects and attributes contained in the directory. It also defines the restrictions and limits on instances of these objects and the format of their names . It is a structure like a tall building with many floors. You can't break the rules that would give you more space or abilities than is allowed. The structure doesn't allow it. If you are assigned a single floor of the building , you cannot leach to another floor or go above or below your assigned floor. This helps keep the structure solid and safe.
 - A global catalog contains information about every object in Active Directory. We need at least one global catalog in every domain and forest or in all user accounts and every other object disappears. This allows users and administrators to find directory information regardless of which domain in the directory actually contains the data. When a system administrator needs to find a user to reset the password, the information is stored in the global catalog. Each domain controller can be a global catalog if desired . Domain controllers contain query and indexing mechanisms so that objects can be published in their properties and found by network users or applications . If a user wants to locate and add a printer , they can do so when it is published to Active Directory, and they can add that printer if permissions allow. When another user wants to open a shared folder on a server, Active Directory searches the access control list of allowed users and Groups to determine whether they have the rights to use this data. A domain controller is a server that can authenticate and authorize users as needed. You have multiple DCs for redundancy and load balancing. The replication service distributes directory data over a network. All domain controllers in a domain participate in replication and contain a complete copy of all directory information for their domain. Any change to directory data is replicated to all domain controllers in the domain. This allows users to log in to server resources as needed, with security and availability guaranteed by the information contained in the domain controllers. Active Directory contains a lot of information to run many services for users. This applies to both on-premises and Azure Active Directory services in the cloud.
 
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/23a1907a-86d9-4492-b094-deb502c73bf4" alt="Description of image" width="700" >
-<img src="(https://github.com/rubak714/Associate-System-Administrator/assets/101013219/9a2a8904-6b3e-4948-bd81-17eb7425de57" alt="Description of image" width="700" >
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/e26fed0e-89a8-4568-b8d5-bed2f8e2404b" alt="Description of image" width="700" >
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/4f7e8f2b-5f72-4ff8-bf83-a9c19eee06c2" alt="Description of image" width="700" >
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/bf128e75-f5a6-475a-8fd0-f89500a3a791" alt="Description of image" width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/23a1907a-86d9-4492-b094-deb502c73bf4"  width="700" >
+<img src="(https://github.com/rubak714/Associate-System-Administrator/assets/101013219/9a2a8904-6b3e-4948-bd81-17eb7425de57"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/e26fed0e-89a8-4568-b8d5-bed2f8e2404b"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/4f7e8f2b-5f72-4ff8-bf83-a9c19eee06c2"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/bf128e75-f5a6-475a-8fd0-f89500a3a791"  width="700" >
 
 ### Operating Systems Instalation:
 
