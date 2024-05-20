@@ -1,11 +1,11 @@
-# Associate-System-Administrator (LinkedIn)
+# Associate-System-Administrator (LinkedIn and Udemy)
 
 There are two types of operating systems when managing servers as a system administrator. 
 The first would be Windows and the second would be Linux. There are other types like Unix, but the previous two make up the majority of your server types. 
 
 These server operating systems contain applications, file and printer shares, databases like SQL, and many other services that can do amazing things. 
 
-## Operating Systems: Installing, updating, and maintaining OSs
+## Installation and configuration of Domain Controller, Active Directory, DNS, WebServer (IIS), Group Policy, WSUS and more
 
 ### Server and Clients:
 - Directory Services:
