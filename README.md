@@ -50,5 +50,140 @@ System Center is a suite of applications intended for both on-premises and cloud
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/5ccb4d40-0748-491f-a959-fa0b84231831"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/6bfe62ec-95a9-416a-a9be-b4fea44820d7"  width="700" >
 
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/d99dd757-e9b5-4525-8008-f71ab4ee6af9"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0231d7bb-2562-4155-8b13-f58e40aad44f"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/a3d68191-4c7f-4671-9e60-6579b16700e7"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0742cb87-f531-4fb5-b3d2-29f46c5778bf"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/4c9e492d-ddda-4583-8070-61b3df5cfbca"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/78d73f5b-fc6c-44f3-9f8a-e57c8557fc06"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0be98b19-c539-457f-98bb-7d08e27b05c3"  width="700" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/83aa4780-1f6d-4c5e-999c-bd5d7b54cef5" >
+
+
+By: Imran Afzal
+## Module 1 – Understanding of Microsoft Windows
+•	What is Windows?
+•	Different Versions of Windows
+•	Microsoft Background and Products
+•	Windows Market Share - Everyday Windows
+•	Windows vs. Linux vs. MAC
+•	Quiz, Handouts and Homework
+
+## Module 2 – Setting up a Lab
+•	Oracle Virtual Box
+•	Installing Oracle Virtual Box
+•	Creating First Virtual Machine
+•	Quiz, Handouts and Homework
+
+## Module 3 - Windows Installation and Configuration
+•	Different Ways to Install OS
+•	Downloading Windows Server 2016
+•	Installing Windows Server 2016
+•	Adding Resources
+•	Hostname and System Information
+•	Windows Server GUI Overview
+•	Quiz, Handouts and Homework
+
+## Module 4 - System Access and File System
+•	Accessing Windows System
+•	File System and Description
+•	Navigating to File System
+•	File Types and Creation
+•	File Properties
+•	Finding Files and Directories
+•	File Maintenance (copy, delete, move and rename)
+•	Files Operations
+•	File Editing Short-Cut Keys
+•	Quiz, Handouts and Homework
+
+## Module 5 - System Administration
+•	User Account Management
+•	Elevating User Roles
+•	Monitor Users Activity (Task manager and command line)
+•	System Utilities Under Accessories
+•	Programs and Service Management (Control panel and services)
+•	System Resource Monitoring (Task Manager)
+•	Windows Event Logs
+•	System Maintenance
+•	Jobs and Schedules
+•	Windows Settings
+•	Server Manager Dashboard
+•	Installing and Uninstalling Programs
+•	Windows Applications (Microsoft or 3rd Party)
+•	Windows Short-Cut Keys (e.g. Alt+Ctl+Del etc.)
+•	Check System Hardware
+•	Quiz, Handouts and Homework
+
+## Module 6 - Advance Windows Administration
+•	Roles vs. Features
+•	Adding Roles and Features
+•	What is Domain Controller?
+•	Domain Controller and Active Directory
+•	Active Directory Prerequisites
+•	What is DNS?
+•	Active Directory Installation
+•	Active Directory "Users and Computers“
+•	Active Directory User Account Management
+•	Installing Windows Client
+•	Joining the Domain from Windows 7 and 10
+•	Active Directory "Administrative Center“
+•	Active Directory "Domain and Trust“
+•	Active Directory "Module for Windows PowerShell“
+•	Active Directory "Site and Services“
+•	Group Policy Management
+•	DNS Administration
+•	Web Server (IIS) Installation
+•	Quiz, Handouts and Homework
+
+## Module 7 - Windows Scripting and Command Line
+•	Windows Batch Scripting
+•	First Batch Script "Hello World“
+•	Script to Automate Simple Tasks
+•	Windows PowerShell
+•	Windows PowerShell Commands
+•	Windows PowerShell ISE (Integrated Scripting Environment)
+•	Windows Management Instrument (WMIC)
+•	Difference Between DOS and PowerShell
+•	Quiz, Handouts and Homework
+
+## Module 8 - Networking and System Updates
+•	What is NIC?
+•	Enable Internet on the VM
+•	NIC Teaming
+•	Network Configuration
+•	Windows Updates
+•	NTP Configuration
+•	File Transfer Methods
+•	FTP Server Installation and Configuration
+•	Sharing FileSystem (Samba or NFS)
+•	WSUS Server Installation and Configuration
+•	Windows Firewall
+•	Quiz, Handouts and Homework
+
+## Module 9 – Storage Management
+•	What is Computer Storage?
+•	Type of Computer Storage
+•	How to Add Disk
+•	Extend an Existing Disk
+•	Disk Cleanup and Defragmentation
+•	RAID
+•	Windows Backup and Restore
+•	Quiz, Handouts and Homework
+
+## Module 10 - Additional Resources (Bonus)
+•	What is IT?
+•	IT Components
+•	Facts about IT
+•	IT Management Jobs
+•	Resume Workshop
+•	Interview Workshop
+•	Post Resume and What to Expect
+•	VMWare Workstation Player Download and Installation
+•	Install Oracle VirtualBox on MAC
+•	Quiz, Handouts and Homework
+
+
+
+
 
 
