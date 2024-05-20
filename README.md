@@ -49,15 +49,13 @@ System Center is a suite of applications intended for both on-premises and cloud
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/d17fab02-2a7e-4f8b-bdda-99b50d730eb9"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/5ccb4d40-0748-491f-a959-fa0b84231831"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/6bfe62ec-95a9-416a-a9be-b4fea44820d7"  width="700" >
-
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/d99dd757-e9b5-4525-8008-f71ab4ee6af9"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0231d7bb-2562-4155-8b13-f58e40aad44f"  width="700" >
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/a3d68191-4c7f-4671-9e60-6579b16700e7"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0742cb87-f531-4fb5-b3d2-29f46c5778bf"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/4c9e492d-ddda-4583-8070-61b3df5cfbca"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/78d73f5b-fc6c-44f3-9f8a-e57c8557fc06"  width="700" >
 <img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/0be98b19-c539-457f-98bb-7d08e27b05c3"  width="700" >
-<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/83aa4780-1f6d-4c5e-999c-bd5d7b54cef5" >
+<img src="https://github.com/rubak714/Associate-System-Administrator/assets/101013219/83aa4780-1f6d-4c5e-999c-bd5d7b54cef5" width="700" >
 
 
 By: Imran Afzal
