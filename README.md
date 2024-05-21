@@ -181,6 +181,26 @@ By: Imran Afzal
 •	Quiz, Handouts and Homework
 
 
+# Module 1:
+
+
+Well, Windows is an operating system which sits in the middle of your hardware and users.
+
+So you have a hardware, right?
+
+A piece of brick that or it's your laptop that you could feel you could touch it.
+
+Then you actually strike some commands on your keyboard and then you run, you create some programs,
+
+you run those programs, right?
+
+But there is a middleman in the middle that actually allows you to do that.
+
+That middleman is the operating system.
+
+And this topic, this lesson, we are going to learn the Windows operating system.
+
+
 
 
 
